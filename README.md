@@ -1,4 +1,4 @@
 # Portfolio
 
 ## visit the website@
-https://rituraj30.github.io/Portfolio/
+https://portfolio-a5x1pos3n-rituraj30.vercel.app/
